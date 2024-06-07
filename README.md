@@ -1,5 +1,4 @@
-# git-digital-course alterando
+# Curso Digital: Git
 
-## Testando essas mudanças
-
-# Git/Versionamentos
+## Salvando alterações no Git
+*comando git push
